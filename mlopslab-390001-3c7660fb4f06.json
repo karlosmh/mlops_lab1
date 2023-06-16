@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mlopslab-390001",
+  "private_key_id": "3c7660fb4f06bd3651e71a6b6888cc1d4ef5d75e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0qvSs0KST8Sq1\nFYDNfqHBGSG7h8zRxJVlqCcGHmPGVZ/YIwN00OshW33H782Wv7nYFFQdhOMNdh0q\n49uM39KWLWyRKhdKWGMjRyozHJ+jQO5FBI32fcRVqtv3Acxv+9G6owNqUVxTtgnz\nHJb/9nb6HlGTLd9p9K79ay3vn5uKEhJFIsIOajYSMdAVXC8p2ZAj4UBX/DwYYnIA\nifYPupQ8qL/ol7CCq+WNdjpkYvFCSryZ+zrfRt6EBObO9INBcQJ+HAnxB3RcvOz8\nVJ/FN1cTx0DRHTWXeeBBY6L+dDWQKNbIN4eVJ+8fxoLLm2cC5D23F3EQ7Omg8ecE\nlC9xQMj9AgMBAAECggEABM6aqYF4q44KaJyMm4sfwytHxD1aBAfSwMxvU2CaH4QW\nN3JBDInlg7LzPw9gnT73MyphTZLEVs6aepJq/E3VRNUrExa3XW1KH/1sAEWl8rpO\nzKvRGiqg/3WHGkSkO6OL4kcll13YUsrga2VKmD9mzYNigMPC8scFo+0G4R4STaNf\nfhq6NO1yFVQrDvFavp9+iJvwpzirV+4bfzJQrWqmxLEg0QHUkgbT+LyU5rxqCyvc\nMu3ZnuNA5qzSZwNMKvsDUFONWiw9gXNgtH9NSuGb1Snql5DSUnpZBu/voKQyjy/3\nPx2yQ0tIdy+/RnN7Q4w6XoARf3ZPBupp+UMe+E+FeQKBgQDjlM9WZuOeVTtAii/x\n5f338M+1E6eJli00jdf7fwEu56kb3JjmVrrpa65Z4tJLkVTUgaEkg6/aPasL8m0n\nPsE/KzYTndakTRURV9eAs3RSfsKf2rMKuboW1TRVoDH0pVM53vKGwD34GmgWBVcK\n5oeywDRjFq5poCEx3xfgC+QwqQKBgQDLOnEal69B7JDpTTtVTvrzwc72vq+1wrOU\nrpWptl6REVWYy8fx3jhogUXbP2rgQYJZdqIp7AhikvP+fLSyejye5t2kJtcotNWH\nnLTwpogUNs2Jle++jMIr9rSYojiI3wM1B/YS7WypQLjm9vhkCMN4B3Ltv4xryKtJ\ni6bHDmDGNQKBgQDKPfQDVGvyyMtfD26MCVcof1gWEuFP46VIjsThOnxSsowVtnQq\nPejchlTqjCdWAFDiiFArotsjlqnqdAWMWrhg6oWj6SBV4ipWvzlDpjY5GWzbof56\nCZLVt6JKdZHvVvwe8YGVPkHTuaPF7fjsNvFgaG4loIJeW28kYp1U/TxMAQKBgCeV\neYRBeTxw9ITMqzrhiFXEMSi0WYsgolPacYI96Et/QdniD07YBsqsK0waHRoTCG2e\ngtWBiNySXP37kkKVNouI0jDv88aU+mZQqpmZBjZRulULJEhMKGHhyqlUJ4jZT0mc\nBF0Ja7nHxnwOLLFnV5NgeA1A2vv/eQV5MwHglg7lAoGBAJ5/s8VcnWnD4Fau3GYa\n72VSyVGtJ3GZg7W5oy6rBktyYL6wYW31G+/j6gImzFJc7Gso/V4+VMPY8o+0VQv7\n6uXwKp0N3qwgoNmj+aHJA2F5AE9/DtLwLDhChBbTRcxdKmVH/F6WrR9x+VSFOJjp\ncJDHCsVKQSLzgt5NypzT6UX7\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlops-lab@mlopslab-390001.iam.gserviceaccount.com",
+  "client_id": "113738660148678246539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlops-lab%40mlopslab-390001.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
