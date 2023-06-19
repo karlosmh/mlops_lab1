@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# mlops_proy documentation build configuration file, created by
+# proyecto1 documentation build configuration file, created by
 # sphinx-quickstart.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -41,7 +41,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'mlops_proy'
+project = u'proyecto1'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 # html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'mlops_repodoc'
+htmlhelp_basename = 'proyecto1doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -184,9 +184,9 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
     ('index',
-     'mlops_repo.tex',
-     u'mlops_proy Documentation',
-     u"carlosm", 'manual'),
+     'proyecto1.tex',
+     u'proyecto1 Documentation',
+     u"Your name (or your organization/company/team)", 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -215,8 +215,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'mlops_repo', u'mlops_proy Documentation',
-     [u"carlosm"], 1)
+    ('index', 'proyecto1', u'proyecto1 Documentation',
+     [u"Your name (or your organization/company/team)"], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -229,8 +229,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    ('index', 'mlops_repo', u'mlops_proy Documentation',
-     u"carlosm", 'mlops_proy',
+    ('index', 'proyecto1', u'proyecto1 Documentation',
+     u"Your name (or your organization/company/team)", 'proyecto1',
      'A short description of the project.', 'Miscellaneous'),
 ]
 
